@@ -13,7 +13,7 @@ Hemos creado un servidor público que permite a cualquier asistente de inteligen
 
 El servidor está disponible en:
 ```
-https://caad-138-100-11-141.ngrok-free.app/sse
+https://mcp.linkeddata.es/sse
 ```
 
 Puedes hacer preguntas como:
